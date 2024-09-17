@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Lmatias122">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lmatias122&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>
+ 
  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmatias122&layout=compact&langs_count=10&theme=highcontrast"/>
  </div>
   
